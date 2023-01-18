@@ -1,0 +1,76 @@
+/* Global */
+a{
+  color: whitesmoke;
+}
+body{
+  background-color: black;
+  background-image: url(images/thismoi.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 44%;
+  color: whitesmoke;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+  text-align: center;
+  margin-top: auto;
+  margin-left: 10%;
+  max-width: fit-content;
+
+}
+
+
+
+footer{
+  font-size: 57%;
+  margin-top: 80%;
+  opacity: 15%;
+  position: fixed;
+  bottom: 5%;
+  left: 18.5%;
+}
+
+h1{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 300%;
+}
+
+dt{
+  font-size: 1.25em;
+  font-weight: 500;
+}
+
+nav{
+  font-family: 'Work Sans', sans-serif;
+  
+}
+
+
+/* Classes */
+
+.btn{
+  background-color: inherit;
+  border: 0;
+  font-size: 200%;
+  margin: auto;
+  max-width: fit-content ;
+}
+
+.up{
+  margin-top: 40%;
+}
+
+
+
+/* IDs */
+
+
+#show-me{
+  display:none;
+  background-color:inherit;
+  position: fixed;
+  margin-right: 55%;
+  margin-top: 1%;
+  max-width: 45%;
+  max-height: fit-content;
+  text-align: justify;
+}
